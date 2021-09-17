@@ -7,5 +7,6 @@
 - Web Socket (Socket) - web-socket.py
 - Beatiful Soup - beautiful-soup-tags.py / beautiful-soup-urls.py
 - XML extract - xml-extract.py
-- JSON extract - TODO
-- ...
+- JSON extract - json-extract.py / json-geolocation.py
+- Databases - TODO...
+
